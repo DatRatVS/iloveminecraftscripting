@@ -1,0 +1,1 @@
+Adds a new teslacorelib BaseAddon() that gives a custom 3x9 range to Industrial Foregoing WorkingAreaElectricMachine tiles
